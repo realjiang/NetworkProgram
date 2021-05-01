@@ -61,3 +61,4 @@ build/
 /.mvn/wrapper/MavenWrapperDownloader.java
 /mvnw
 /mvnw.cmd
+/out/
